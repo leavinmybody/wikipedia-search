@@ -25,7 +25,7 @@ function App() {
   return (
     <div className="App">
       <header>
-        <h1>React Wikipedia </h1>
+        <h1>Wikipedia Seeker</h1>
         <form className="search-box" onSubmit={handleSearch}>
           <input
             type="search"
